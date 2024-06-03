@@ -1,0 +1,5 @@
+dependencies:
+  - pip
+  - pip:
+    - pandas
+    - chembl_webresource_client
