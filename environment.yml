@@ -2,4 +2,5 @@ dependencies:
   - pip
   - pip:
     - pandas
+    - rdkit
     - chembl_webresource_client
