@@ -2,4 +2,7 @@ dependencies:
   - pip
   - pip:
     - pandas
+    - numpy
+    - rdkit
+    - prettytable
     - chembl_webresource_client
